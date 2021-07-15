@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e56c8794d875e449165b22e6bbc1fc, type: 3}
+  m_Name: Calf
+  m_EditorClassIdentifier: 
+  bodyPartSprite: {fileID: -790214182218862315, guid: 204130d27ca7bd945b08faf8e031d951,
+    type: 3}
+  bodyPartVideoClip: {fileID: 32900000, guid: bda3734b61ca40c4b8925cf47bc8c37a, type: 3}
+  description: The fleshy part at the back of a person's leg below the knee
+  answer: calf

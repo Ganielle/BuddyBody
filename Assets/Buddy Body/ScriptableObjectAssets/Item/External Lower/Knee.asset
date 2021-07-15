@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e56c8794d875e449165b22e6bbc1fc, type: 3}
+  m_Name: Knee
+  m_EditorClassIdentifier: 
+  bodyPartSprite: {fileID: -3964677330412639808, guid: 204130d27ca7bd945b08faf8e031d951,
+    type: 3}
+  bodyPartVideoClip: {fileID: 32900000, guid: 56851c3d163ff7f4691e84936a1ac33a, type: 3}
+  description: The joint between the thigh and the lower leg in humans
+  answer: knee

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e56c8794d875e449165b22e6bbc1fc, type: 3}
+  m_Name: BigToe
+  m_EditorClassIdentifier: 
+  bodyPartSprite: {fileID: 2534750432999627774, guid: 204130d27ca7bd945b08faf8e031d951,
+    type: 3}
+  bodyPartVideoClip: {fileID: 32900000, guid: 9934ffe77ceb38d409c4a064871d30c2, type: 3}
+  description: Each of the limbs on which a person or animal walks and stands
+  answer: big toe

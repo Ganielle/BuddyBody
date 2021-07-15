@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 204130d27ca7bd945b08faf8e031d951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8189564547981603134
+    second: ExternalLower.TileSet_Sole
+  - first:
+      213: -2769117418072089126
+    second: ExternalLower.TileSet_1
+  - first:
+      213: 2534750432999627774
+    second: ExternalLower.TileSet_BigToe
+  - first:
+      213: -5107900141772912562
+    second: ExternalLower.TileSet_Buttocks
+  - first:
+      213: -790214182218862315
+    second: ExternalLower.TileSet_Calf
+  - first:
+      213: 4132828374602788995
+    second: ExternalLower.TileSet_Foot
+  - first:
+      213: -3122892906065066105
+    second: ExternalLower.TileSet_Heel
+  - first:
+      213: -7950089876536162870
+    second: ExternalLower.TileSet_Hip
+  - first:
+      213: -3318174347243620990
+    second: ExternalLower.TileSet_Instep
+  - first:
+      213: -3964677330412639808
+    second: ExternalLower.TileSet_Knee
+  - first:
+      213: -729343320448275848
+    second: ExternalLower.TileSet_Leg
+  - first:
+      213: 2420361576253867892
+    second: ExternalLower.TileSet_LowerLimb
+  - first:
+      213: -8434017764103557045
+    second: ExternalLower.TileSet_Shin
+  - first:
+      213: 2962335394870144515
+    second: ExternalLower.TileSet_Sole
+  - first:
+      213: -706544264441355588
+    second: ExternalLower.TileSet_Thigh
+  - first:
+      213: -7793339679364024298
+    second: ExternalLower.TileSet_ToeNail
+  - first:
+      213: -2024492376470556714
+    second: ExternalLower.TileSet_16
+  - first:
+      213: -5907482366426411765
+    second: ExternalLower.TileSet_17
+  - first:
+      213: 4705457827797522377
+    second: ExternalLower.TileSet_18
+  - first:
+      213: -6166821506314688163
+    second: ExternalLower.TileSet_BigToe
+  - first:
+      213: -4837263430112244953
+    second: ExternalLower.TileSet_Calf
+  - first:
+      213: 640906213144279445
+    second: ExternalLower.TileSet_21
+  - first:
+      213: -1841102366490446062
+    second: ExternalLower.TileSet_22
+  - first:
+      213: -97775552703267120
+    second: ExternalLower.TileSet_23
+  - first:
+      213: 6084306969371469083
+    second: ExternalLower.TileSet_Foot
+  - first:
+      213: -2891169636626343388
+    second: ExternalLower.TileSet_AnkleJoint
+  - first:
+      213: 4078236476215101493
+    second: ExternalLower.TileSet_Buttocks
+  - first:
+      213: 3409914697463936892
+    second: ExternalLower.TileSet_27
+  - first:
+      213: 8084052025839831818
+    second: ExternalLower.TileSet_28
+  - first:
+      213: 1491762826055687490
+    second: ExternalLower.TileSet_29
+  - first:
+      213: -7685192960729812000
+    second: ExternalLower.TileSet_30
+  - first:
+      213: 5309779584348596449
+    second: ExternalLower.TileSet_31
+  - first:
+      213: 3210375044798217747
+    second: ExternalLower.TileSet_32
+  - first:
+      213: -5405075741099488385
+    second: ExternalLower.TileSet_33
+  - first:
+      213: 7081957386069748786
+    second: ExternalLower.TileSet_34
+  - first:
+      213: 3360655327015698032
+    second: ExternalLower.TileSet_35
+  - first:
+      213: 565959348057713043
+    second: ExternalLower.TileSet_36
+  - first:
+      213: 985934997402231538
+    second: ExternalLower.TileSet_37
+  - first:
+      213: 4378091518475265067
+    second: ExternalLower.TileSet_38
+  - first:
+      213: 2539689529002318296
+    second: ExternalLower.TileSet_39
+  - first:
+      213: -2119252306517864961
+    second: ExternalLower.TileSet_Instep
+  - first:
+      213: -2371690732973240569
+    second: ExternalLower.TileSet_41
+  - first:
+      213: 6244851454910913235
+    second: ExternalLower.TileSet_42
+  - first:
+      213: -3273400316724464879
+    second: ExternalLower.TileSet_43
+  - first:
+      213: -8733745481593287162
+    second: ExternalLower.TileSet_Knee
+  - first:
+      213: 8376171840982373625
+    second: ExternalLower.TileSet_Leg
+  - first:
+      213: -5879577262860005901
+    second: ExternalLower.TileSet_46
+  - first:
+      213: -1524111506468988968
+    second: ExternalLower.TileSet_47
+  - first:
+      213: 4115156120925874837
+    second: ExternalLower.TileSet_48
+  - first:
+      213: 977482902452504200
+    second: ExternalLower.TileSet_Heel
+  - first:
+      213: 7845789466956704938
+    second: ExternalLower.TileSet_Hip
+  - first:
+      213: 2747804496928347536
+    second: ExternalLower.TileSet_51
+  - first:
+      213: -1284491833798019944
+    second: ExternalLower.TileSet_52
+  - first:
+      213: -5163808142995878749
+    second: ExternalLower.TileSet_Shin
+  - first:
+      213: 2601350247100752062
+    second: ExternalLower.TileSet_Thigh
+  - first:
+      213: 1996824663029196420
+    second: ExternalLower.TileSet_55
+  - first:
+      213: 1023293766152749998
+    second: ExternalLower.TileSet_LowerLimb
+  - first:
+      213: 4525571780922555744
+    second: ExternalLower.TileSet_57
+  - first:
+      213: -1240944059820484793
+    second: ExternalLower.TileSet_58
+  - first:
+      213: 7169853971792420794
+    second: ExternalLower.TileSet_59
+  - first:
+      213: 3044466906861990633
+    second: ExternalLower.TileSet_ToeNail
+  - first:
+      213: 6632134761381572989
+    second: ExternalLower.TileSet_61
+  - first:
+      213: -103177071438831079
+    second: ExternalLower.TileSet_62
+  - first:
+      213: 4640541976113690264
+    second: ExternalLower.TileSet_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_BigToe
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 818
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59afd2638c0b6aa0800000000000000
+      internalID: -6166821506314688163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Calf
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 813
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b0c2b0a869edcb0800000000000000
+      internalID: -4837263430112244953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Foot
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 840
+        width: 184
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e1ddd3fccf6450800000000000000
+      internalID: 6084306969371469083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_AnkleJoint
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 839
+        width: 170
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42add77988080e7d0800000000000000
+      internalID: -2891169636626343388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Buttocks
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 827
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53887dab77ec89830800000000000000
+      internalID: 4078236476215101493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Instep
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 468
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd43986147e692e0800000000000000
+      internalID: -2119252306517864961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Knee
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 472
+        width: 130
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e85f202c08bc680800000000000000
+      internalID: -8733745481593287162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Leg
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 466
+        width: 135
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4526719e32e3470800000000000000
+      internalID: 8376171840982373625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Heel
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 484
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88603b65587b09d00800000000000000
+      internalID: 977482902452504200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Hip
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 476
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca47093f7d1ec60800000000000000
+      internalID: 7845789466956704938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Shin
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 127
+        width: 171
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac067c5ad77658b0800000000000000
+      internalID: -5163808142995878749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Thigh
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 132
+        width: 133
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a0d6644ad91420800000000000000
+      internalID: 2601350247100752062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_LowerLimb
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 120
+        width: 171
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea308683248733e00800000000000000
+      internalID: 1023293766152749998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_ToeNail
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 156
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f0f1858e104a20800000000000000
+      internalID: 3044466906861990633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalLower.TileSet_Sole
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 103
+        width: 167
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8c6c0f62d85e80800000000000000
+      internalID: -8189564547981603134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5df95e4663987be40953b67674ed901c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

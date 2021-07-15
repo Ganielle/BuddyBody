@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9194252451550336658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9194252451550336656}
+  - component: {fileID: 9194252451550336662}
+  - component: {fileID: 9194252451550336659}
+  - component: {fileID: 9194252451448287556}
+  - component: {fileID: 3754350438243585155}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9194252451550336656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194252451550336658}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9194252451550336662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194252451550336658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b8a750f304ca04d9daab4cf834b709, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  changeGameStateOnStart: 1
+  gameState: 1
+--- !u!114 &9194252451550336659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194252451550336658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aec76b56f2728e40a629bba987af4be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mediumMaxTimer: 900
+  hardMaxTimer: 600
+  playerCamera: {fileID: 0}
+  checkingCamera: {fileID: 0}
+  overviewMapCamera: {fileID: 0}
+  externalUpperBodyPartData:
+  - {fileID: 11400000, guid: 683c922ed392e5b4a8b6fc86ef3500d2, type: 2}
+  - {fileID: 11400000, guid: 946b8c7ecb4a4964e8278ebfb37d8ebd, type: 2}
+  - {fileID: 11400000, guid: 508ffd736505aa245b48445e94217ef1, type: 2}
+  - {fileID: 11400000, guid: 22a62362260904f41b04d1d93a88bdf0, type: 2}
+  - {fileID: 11400000, guid: 583bdd47c97c5094e8c9cbef4ba4e17f, type: 2}
+  - {fileID: 11400000, guid: f3cb5220f5a0bd84294b8fe61802480c, type: 2}
+  - {fileID: 11400000, guid: 7916110b0b243b74c876160f2b54b834, type: 2}
+  - {fileID: 11400000, guid: a11e5062254f98d41883bf21ae2a8be0, type: 2}
+  - {fileID: 11400000, guid: da4c347aaab496d42be24b62d7ecef98, type: 2}
+  - {fileID: 11400000, guid: cbcb45a086efb0c4b983ab635cc4f188, type: 2}
+  - {fileID: 11400000, guid: 73597deb47c42e84a9fb8a6abb972cf6, type: 2}
+  - {fileID: 11400000, guid: 837d60300067a9941aa9425c35935540, type: 2}
+  - {fileID: 11400000, guid: d0488ff74b3dfd14aa553d7684353d1e, type: 2}
+  - {fileID: 11400000, guid: f5efae2136085e7408d5fdbc234216b6, type: 2}
+  - {fileID: 11400000, guid: c268ad742e165ef4bbcf4193e7168e3f, type: 2}
+  externalLowerBodyPartData:
+  - {fileID: 11400000, guid: e62dfab0675ccc34f88a08464c5e5ce9, type: 2}
+  - {fileID: 11400000, guid: 41a451c22ba912843ad548b59a4fa2f0, type: 2}
+  - {fileID: 11400000, guid: ab7b7b34adf548a4db8e906fccbe38a2, type: 2}
+  - {fileID: 11400000, guid: bf1e5d6738241c445aa45f2db0bd3652, type: 2}
+  - {fileID: 11400000, guid: 3626f6ec6cbca6e438f6f8579491b3ca, type: 2}
+  - {fileID: 11400000, guid: e8478df00f689e840adff2f517584279, type: 2}
+  - {fileID: 11400000, guid: 45b4851acdea1e14994d0b4e14bea95a, type: 2}
+  - {fileID: 11400000, guid: e45f2c75caaac624a86704b2c6d21572, type: 2}
+  - {fileID: 11400000, guid: eb13feaa626b3c54f97bdd6e2cd1bda5, type: 2}
+  - {fileID: 11400000, guid: 547dfe09c248bde4982eae01c26c6b17, type: 2}
+  - {fileID: 11400000, guid: f4f20c17f948c434b88836b09a0d5147, type: 2}
+  - {fileID: 11400000, guid: fee2a943e16953045be0f2eb0add190b, type: 2}
+  - {fileID: 11400000, guid: 5ed46b45b10bdd742b13048556286756, type: 2}
+  - {fileID: 11400000, guid: 2d83ca9e129196740aaf813454ff908e, type: 2}
+  - {fileID: 11400000, guid: 8ef6e2b944f3bec43a509c648e98daa0, type: 2}
+  itemLocatorOne: {fileID: 0}
+  itemLocatorTwo: {fileID: 0}
+  itemLocatorThree: {fileID: 0}
+  bodyPartFieldItem: {fileID: 2584684212057334421, guid: 5d52f078835bab942a467a38f04f0161,
+    type: 3}
+  characterSpawnPoints: {fileID: 0}
+  bodyPartSpawnPointsOne:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bodyPartSpawnPointsTwo:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  bodyPartSpawnPointsThree: []
+  hurryUpClip: {fileID: 8300000, guid: 95d9f29b4c028a547aba6e98dde96538, type: 3}
+  HurryUpTimerClip: {fileID: 8300000, guid: e111d7e116f958946a8b6381f929b1de, type: 3}
+  questBG: {fileID: 8300000, guid: 0357600b76908c8469983ab9c8cdc4ca, type: 3}
+  timesUpClip: {fileID: 8300000, guid: 9acd5abbab5294b46aa08c10afe5a300, type: 3}
+  gameOverClip: {fileID: 8300000, guid: 52450507eb58606419c207df2babb1fd, type: 3}
+  questStartClip: {fileID: 8300000, guid: 39bfaf2a4d504d4448bb472f74dfcb1d, type: 3}
+  randomSpawnChoice: 0
+  firstInstantiate: 0
+  firstPopulate: 0
+--- !u!114 &9194252451448287556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194252451550336658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e592d26661d20349a011e44748ec3d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgMusic: 1
+  ambianceMusic: 1
+  playOnAwake: 0
+  beforeFindItemsClip: {fileID: 8300000, guid: aa2d60d75ec4e4c4f82138dc5679e723, type: 3}
+  bgMusicClip: {fileID: 8300000, guid: 080851b126d13014d9c28d08b9a56f9b, type: 3}
+  maxTime: 47
+  loopTime: 0
+  ambianceMusicClip: {fileID: 8300000, guid: c69ab42c01fdf214698250a0af458874, type: 3}
+  playOnce: 0
+--- !u!114 &3754350438243585155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9194252451550336658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95f3cf28286d6004787881946de07d17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directionalLight: {fileID: 0}
+  skybox: {fileID: 2100000, guid: c051fe5a20f72814f9643eb10ebbd2fc, type: 2}

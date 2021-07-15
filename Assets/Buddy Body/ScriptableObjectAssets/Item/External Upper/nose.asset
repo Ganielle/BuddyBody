@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e56c8794d875e449165b22e6bbc1fc, type: 3}
+  m_Name: nose
+  m_EditorClassIdentifier: 
+  bodyPartSprite: {fileID: 6138202546294257346, guid: 31ea21fa9cafae248b0874412f6c184a,
+    type: 3}
+  bodyPartVideoClip: {fileID: 32900000, guid: fe69e6e30b4ee52428ddcac82c3a03f2, type: 3}
+  description: The part projecting above the mouth on the face of a person or animal,
+    containing the nostrils and used for breathing and smelling.
+  answer: nose

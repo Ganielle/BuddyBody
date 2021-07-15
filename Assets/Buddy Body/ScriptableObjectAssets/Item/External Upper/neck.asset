@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50e56c8794d875e449165b22e6bbc1fc, type: 3}
+  m_Name: neck
+  m_EditorClassIdentifier: 
+  bodyPartSprite: {fileID: -5191947661541571864, guid: 31ea21fa9cafae248b0874412f6c184a,
+    type: 3}
+  bodyPartVideoClip: {fileID: 32900000, guid: 23734ae1ba437224a937d968ba8d4d4d, type: 3}
+  description: The part of a person's or animal's body connecting the head to the
+    rest of the body.
+  answer: neck

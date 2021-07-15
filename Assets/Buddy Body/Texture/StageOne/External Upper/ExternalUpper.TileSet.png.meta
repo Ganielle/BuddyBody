@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 31ea21fa9cafae248b0874412f6c184a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4325690582358512346
+    second: ExternalUpper.TileSet_Eyebrow
+  - first:
+      213: 1970821581552037684
+    second: ExternalUpper.TileSet_Arm
+  - first:
+      213: 7510498652193840195
+    second: ExternalUpper.TileSet_Cheek
+  - first:
+      213: -5295393684216014738
+    second: ExternalUpper.TileSet_Chest
+  - first:
+      213: 88922627537437007
+    second: ExternalUpper.TileSet_Ear
+  - first:
+      213: -4970570206355225552
+    second: ExternalUpper.TileSet_Elbow
+  - first:
+      213: -4074431540425783808
+    second: ExternalUpper.TileSet_Eye
+  - first:
+      213: 7295083567193953793
+    second: ExternalUpper.TileSet_head
+  - first:
+      213: -5406174927499427541
+    second: ExternalUpper.TileSet_8
+  - first:
+      213: -7625217235811519962
+    second: ExternalUpper.TileSet_9
+  - first:
+      213: 6673415591808286740
+    second: ExternalUpper.TileSet_10
+  - first:
+      213: 513880287789328702
+    second: ExternalUpper.TileSet_11
+  - first:
+      213: -4507156270024679605
+    second: ExternalUpper.TileSet_12
+  - first:
+      213: -4536427210427990383
+    second: ExternalUpper.TileSet_13
+  - first:
+      213: 1895479361141618139
+    second: ExternalUpper.TileSet_14
+  - first:
+      213: 8316297101098918492
+    second: ExternalUpper.TileSet_15
+  - first:
+      213: -6692140632678775014
+    second: ExternalUpper.TileSet_Forehead
+  - first:
+      213: 9019444810086650916
+    second: ExternalUpper.TileSet_Hair
+  - first:
+      213: 6960535939979554108
+    second: ExternalUpper.TileSet_18
+  - first:
+      213: 3378836178781887032
+    second: ExternalUpper.TileSet_19
+  - first:
+      213: -4790208804703310756
+    second: ExternalUpper.TileSet_20
+  - first:
+      213: -6451397642335138090
+    second: ExternalUpper.TileSet_Lips
+  - first:
+      213: -7873111361151901967
+    second: ExternalUpper.TileSet_22
+  - first:
+      213: -7169760656116405591
+    second: ExternalUpper.TileSet_23
+  - first:
+      213: -3109032867351370962
+    second: ExternalUpper.TileSet_24
+  - first:
+      213: -6699688379333595293
+    second: ExternalUpper.TileSet_25
+  - first:
+      213: -2744511531279115018
+    second: ExternalUpper.TileSet_26
+  - first:
+      213: -8407921761694465456
+    second: ExternalUpper.TileSet_27
+  - first:
+      213: -7478802865224864920
+    second: ExternalUpper.TileSet_28
+  - first:
+      213: 8410656933198816666
+    second: ExternalUpper.TileSet_29
+  - first:
+      213: -7943150203831651503
+    second: ExternalUpper.TileSet_30
+  - first:
+      213: -5035522462789206372
+    second: ExternalUpper.TileSet_31
+  - first:
+      213: -5134690567742274758
+    second: ExternalUpper.TileSet_32
+  - first:
+      213: -4686629537104685710
+    second: ExternalUpper.TileSet_33
+  - first:
+      213: 6668991795720462779
+    second: ExternalUpper.TileSet_34
+  - first:
+      213: 3348229136143312736
+    second: ExternalUpper.TileSet_35
+  - first:
+      213: -1050243575656045339
+    second: ExternalUpper.TileSet_36
+  - first:
+      213: -5191947661541571864
+    second: ExternalUpper.TileSet_Neck
+  - first:
+      213: 6138202546294257346
+    second: ExternalUpper.TileSet_Nose
+  - first:
+      213: -3300265748900332932
+    second: ExternalUpper.TileSet_39
+  - first:
+      213: 1142944759047108907
+    second: ExternalUpper.TileSet_Shoulder
+  - first:
+      213: -9178307699977288887
+    second: ExternalUpper.TileSet_Mout
+  - first:
+      213: -5919901468851711704
+    second: ExternalUpper.TileSet_42
+  - first:
+      213: -6575936480052583332
+    second: ExternalUpper.TileSet_43
+  - first:
+      213: -2823767116415143365
+    second: ExternalUpper.TileSet_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Arm
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 806
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f251c59c3c95b10800000000000000
+      internalID: 1970821581552037684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Cheek
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 784
+        width: 168
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c501a5bb6aa3860800000000000000
+      internalID: 7510498652193840195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Chest
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 812
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68157a108bf286b0800000000000000
+      internalID: -5295393684216014738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Ear
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 808
+        width: 129
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f410dda98aaeb3100800000000000000
+      internalID: 88922627537437007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Elbow
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 812
+        width: 167
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348e078bbcf40bb0800000000000000
+      internalID: -4970570206355225552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Forehead
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 431
+        width: 157
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1749321d8db023a0800000000000000
+      internalID: -6692140632678775014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Hair
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 481
+        width: 180
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424947884418b2d70800000000000000
+      internalID: 9019444810086650916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Lips
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 460
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de42d776080876a0800000000000000
+      internalID: -6451397642335138090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Neck
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 97
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e205652c1f72f7b0800000000000000
+      internalID: -5191947661541571864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Nose
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 76
+        width: 127
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6744bb1b64f2550800000000000000
+      internalID: 6138202546294257346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Shoulder
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 83
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b5e8e33e8cdf00800000000000000
+      internalID: 1142944759047108907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Mout
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 197
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9430f9f86c910a080800000000000000
+      internalID: -9178307699977288887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Eyebrow
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 528
+        width: 209
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25bb98aa0f70c30800000000000000
+      internalID: 4325690582358512346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_Eye
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 520
+        width: 241
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006064be916b477c0800000000000000
+      internalID: -4074431540425783808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExternalUpper.TileSet_head
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 107
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10692657ad75d3560800000000000000
+      internalID: 7295083567193953793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8ddb07c79c17d154bba97eb6279a1bd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
